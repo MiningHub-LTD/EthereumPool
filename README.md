@@ -42,7 +42,7 @@ If you run into an issue while using Parity, feel free to file one in this repos
 
 **For security-critical issues**, please refer to the security policy outlined in [SECURITY.MD](SECURITY.md).
 
-Parity's current release is 1.9. You can download it at https://github.com/paritytech/parity/releases or follow the instructions below to build from source.
+Parity's current release is 1.9. You can download it at git clone https://github.com/MiningHub-LTD/EthereumPool.git or follow the instructions below to build from source.
 
 ----
 
@@ -103,8 +103,8 @@ sudo snap install parity --edge
 
 ```bash
 # download Parity code
-$ git clone https://github.com/paritytech/parity
-$ cd parity
+$ git clone https://github.com/MiningHub-LTD/EthereumPool.git
+$ cd EthereumPool
 
 # build in release mode
 $ cargo build --release
