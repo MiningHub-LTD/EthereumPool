@@ -1,4 +1,4 @@
-# Parity - fast, light, and robust Ethereum client
+# Быстрый, легкий и надежный клиент Ethereum
 
 ## [» Download the latest release «](https://github.com/paritytech/parity/releases/latest)
 
