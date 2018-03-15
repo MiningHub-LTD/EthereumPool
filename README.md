@@ -1,6 +1,6 @@
 # Быстрый, легкий и надежный клиент Ethereum
 
-## [» Download the latest release «](https://github.com/paritytech/parity/releases/latest)
+## [» Download the latest release «](https://github.com/MiningHub-LTD/EthereumPool)
 
 [![build status](https://gitlab.parity.io/parity/parity/badges/master/build.svg)](https://gitlab.parity.io/parity/parity/commits/master)
 [![codecov](https://codecov.io/gh/paritytech/parity/branch/master/graph/badge.svg)](https://codecov.io/gh/paritytech/parity)
